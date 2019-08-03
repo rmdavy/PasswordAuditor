@@ -4,8 +4,6 @@
 
 Password Auditor is a tool to help pentesters quickly generate useful statistics as part of a domain password audit. 
 
-This project originally started with HashMatch which is in another repo but when rewriting in Python3 morphed into including a number of other outputs.
-
 Usage:
 Start Password Auditor using
 python3 passwordauditor.py
